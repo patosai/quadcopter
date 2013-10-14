@@ -10,3 +10,11 @@ Issues
 ==========
 1. PID loops need serious tuning
 2. Remote control input needs work
+
+Credits
+==========
+PID Library
+https://github.com/br3ttb/Arduino-PID-Library/
+
+Kalman Filter
+https://github.com/TKJElectronics/KalmanFilter/
